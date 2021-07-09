@@ -1,7 +1,9 @@
+/*
 package C13_제네릭;
 
 import java.util.Arrays;
 
+*/
 /*
 
           Person
@@ -10,7 +12,8 @@ import java.util.Arrays;
                     HighSudent
 
 
-* */
+* *//*
+
 
 
 
@@ -73,3 +76,4 @@ public class WildCardExample {
         //registerCouseWorker(highstudentCourse);
     }
 }
+*/
